@@ -8,7 +8,7 @@
 }
 
 .navbar-inverse .navbar-nav > li > a,
-.navbar-inverse .navbar-nav > .open ul > a { color:rgba(255, 255, 255, .4); }
+.navbar-inverse .navbar-nav > .open ul > a { color:rgba(255, 255, 255, .40); }
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover, 
@@ -21,6 +21,8 @@
 .navbar-inverse .navbar-nav>.open>a:focus { background:none; color:white; }
 
 .navbar-inverse .navbar-nav > .active > a { background:none; color:white; }
+
+/* .navbar- > .active > a { margin-right:1000; } */
 
 .navbar-inverse .navbar-brand { font-family: "Open sans", helvetica, arial; font-size: 24px; color:white; padding:0 0 0 15px; margin:12px 0 0 0; }
 	.navbar-inverse .navbar-brand img { margin-left:-350px; margin-top:-15px; width: 550px; height: auto;}
