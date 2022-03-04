@@ -1,3 +1,8 @@
 # Redesign of doatap.gr
 
-live preview: https://doatap-redesign.herokuapp.com/
+ |Authors|
+ |-------|
+ |Vasiliki Efstathiou|
+ |Nikos Eftychiou|
+ |Nikolas Nikandrou|
+[live preview](https://doatap-redesign.herokuapp.com/)
